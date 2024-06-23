@@ -1,0 +1,24 @@
+*******************************************************************************
+
+In workshop 2, we will look at user input. In this lesson, we will use prompt. 
+Prompt is a quick way to get text from the user. Of course, we need to store 
+this text in the memory so we can retrieve it later.
+
+*******************************************************************************
+
+___ TASK 1_____________________________________________________________________
+The code in this repository demonstrates the prompt function.  Can you update
+the javascript code so you ask the user for:
+1. their first name
+2. their surname.
+3. display their full name on the HTML document with H1 headings.
+
+___ TASK 2_____________________________________________________________________
+Ask the user for a number.  Display 'thank you' on the screen. Send the input
+to the console.
+
+___ TASK 3_____________________________________________________________________
+Ask the user for three of their favourite things and display them to the HTML
+document as a list. 
+
+hint: remember, we can write html code to the document.
